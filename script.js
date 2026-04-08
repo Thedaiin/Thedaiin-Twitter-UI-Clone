@@ -47,7 +47,7 @@ const tweets = [
     name: "Ninja",
     handle: "Ninja",
     verified: true,
-    avatar: "image/ninja.png",
+    avatar: "image/Ninja.png",
     time: "8h",
     text: "1HP clutch was INSANE! 🎮🔥\n\nFull highlights dropping tomorrow on YouTube!",
     video: "video/1HP clutch by Ninja..mp4",
